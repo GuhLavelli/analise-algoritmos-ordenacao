@@ -3,34 +3,34 @@ Comparacoes Crescente: 499500
 Trocas Crescente: 0
 
 Array Aleatório: 0.038520199999993565
-Comparacoes Crescente: 499500
-Trocas Crescente: 988
+Comparacoes Aleatório: 499500
+Trocas Aleatório: 988
 
 Array Decrescente: 0.038986300000033225
-Comparacoes Crescente: 499500
-Trocas Crescente: 500
+Comparacoes Decrescente: 499500
+Trocas Decrescente: 500
 ==========================================================
 Array Crescente: 3.7446866000000227
 Comparacoes Crescente: 49995000
 Trocas Crescente: 0
 
 Array Aleatório: 3.7033967000000416
-Comparacoes Crescente: 49995000
-Trocas Crescente: 9981
+Comparacoes Aleatório: 49995000
+Trocas Aleatório: 9981
 
 Array Decrescente: 3.856124799999975
-Comparacoes Crescente: 49995000
-Trocas Crescente: 5000
+Comparacoes Decrescente: 49995000
+Trocas Decrescente: 5000
 ==========================================================
 Array Crescente: 411.10533069999997
 Comparacoes Crescente: 4999950000
 Trocas Crescente: 0
 
 Array Aleatório: 422.90810469999997
-Comparacoes Crescente: 4999950000
-Trocas Crescente: 99904
+Comparacoes Aleatório: 4999950000
+Trocas Aleatório: 99904
 
 Array Decrescente: 433.75393459999987
-Comparacoes Crescente: 4999950000
-Trocas Crescente: 50000
+Comparacoes Decrescente: 4999950000
+Trocas Decrescente: 50000
 ==========================================================
