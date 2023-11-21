@@ -1,36 +1,36 @@
-Array Crescente: 0.0008443000006082002
-Comparacoes Crescente: 0
+Array Crescente: 0.0012499000000048
+Comparacoes Crescente: 8007
 Trocas Crescente: 8006
 
-Array Aleatório: 0.0016838000010466203
-Comparacoes Aleatório: 7208
-Trocas Aleatório: 8006
+Array Aleatório: 0.0018352999999962094
+Comparacoes Crescente: 8007
+Trocas Crescente: 8006
 
-Array Decrescente: 0.0014054999992367812
-Comparacoes Decrescente: 4700
-Trocas Decrescente: 8006
+Array Decrescente: 0.0015163999999998623
+Comparacoes Crescente: 8007
+Trocas Crescente: 8006
 ==========================================================
-Array Crescente: 0.012941000000864733
-Comparacoes Crescente: 0
+Array Crescente: 0.018571000000008553
+Comparacoes Crescente: 120006
 Trocas Crescente: 120005
 
-Array Aleatório: 0.028587799999513663
-Comparacoes Aleatório: 125302
-Trocas Aleatório: 120005
+Array Aleatório: 0.027960399999997776
+Comparacoes Crescente: 120006
+Trocas Crescente: 120005
 
-Array Decrescente: 0.019964799997978844
-Comparacoes Decrescente: 62560
-Trocas Decrescente: 120005
+Array Decrescente: 0.022535000000004857
+Comparacoes Crescente: 120006
+Trocas Crescente: 120005
 ==========================================================
-Array Crescente: 0.1666559999976016
-Comparacoes Crescente: 0
+Array Crescente: 0.23594810000000166
+Comparacoes Crescente: 1500007
 Trocas Crescente: 1500006
 
-Array Aleatório: 0.4499197000004642
-Comparacoes Aleatório: 2151907
-Trocas Aleatório: 1500006
+Array Aleatório: 0.42397969999998963
+Comparacoes Crescente: 1500007
+Trocas Crescente: 1500006
 
-Array Decrescente: 0.26864299999942887
-Comparacoes Decrescente: 844560
-Trocas Decrescente: 1500006
+Array Decrescente: 0.2959697999999946
+Comparacoes Crescente: 1500007
+Trocas Crescente: 1500006
 ==========================================================

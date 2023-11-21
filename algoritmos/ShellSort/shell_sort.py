@@ -7,12 +7,13 @@ class ShellSort():
         n = len(arr)
         intervalo = n // 2
 
+        self.qtde_compar += 1
         while intervalo > 0:
             for i in range(intervalo, n):
                 temp = arr[i]
                 j = i
+                self.qtde_compar += 1
                 while j >= intervalo and arr[j - intervalo] > temp:
-                    self.qtde_compar += 1
                     arr[j] = arr[j - intervalo]
                     j -= intervalo
                 arr[j] = temp
