@@ -96,7 +96,7 @@ class Resultados:
         fig, ax = plt.subplots(figsize=(10, 6))
         for algoritmo, valores_tamanho in self.results_dict.items():
             valores = [valores_tamanho[tamanho].get(metrica, 0) for tamanho in tamanhos]
-            print(valores)
+            pprint(self.results_dict)
             ax.plot(tamanhos, valores, label=algoritmo, marker='o')
 
         ax.grid(True)    
